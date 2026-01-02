@@ -1,0 +1,29 @@
+ body{
+    background-color: blueviolet;
+    text-align: center;
+    display:flexbox;
+ }
+#button{
+   text-align: center;
+}
+   select-option{
+      gap: 20rem;
+       justify-content: space-between;
+       margin-right: 12rem;
+   }
+
+#Contact{
+   margin-left: 20px;
+}
+
+   
+
+.sweets{
+   margin-right: 2.5rem;
+}
+.ice{
+   margin-left: 2.5rem;
+}
+a{
+   text-decoration: none;
+}
